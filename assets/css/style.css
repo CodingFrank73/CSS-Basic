@@ -1,0 +1,23 @@
+body{
+    background-color: lightgrey;
+}
+header{
+    background-color: grey;
+    padding-left: 50px;
+}
+
+a{
+    color: coral;
+}
+
+p{
+    color: coral;
+}
+
+div > p{
+    color: black;
+}
+
+span{
+    color: coral;
+}
